@@ -54,3 +54,4 @@ Run in Google Colab:
 * Export final video with tracked player IDs
 
 ### Exported final video
+![Video](https://github.com/Bornarekrishna/Re-Identification-in-a-Single-Feed/blob/main/tracked_output%20.mp4)
